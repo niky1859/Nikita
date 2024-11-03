@@ -1,4 +1,4 @@
 # Nikita
 This is my repository.
 <br>
-Author - Nikita Bhandari
+Author - Nikita Shantilal Bhandari
